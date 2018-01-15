@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+
+Getting started with GitHub, maybe sometime will use it to share my masterpiece level coding.
